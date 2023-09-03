@@ -20,7 +20,7 @@
   //#define VARIANT_HOVERBOARD  // Variant for HOVERBOARD build
   //#define VARIANT_TRANSPOTTER // Variant for TRANSPOTTER build https://github.com/NiklasFauth/hoverboard-firmware-hack/wiki/Build-Instruction:-TranspOtter https://hackaday.io/project/161891-transpotter-ng
   //#define VARIANT_SKATEBOARD  // Variant for SKATEBOARD build
-  //#define VARIANT_BBCAR       // Variant for small Toy-Car with steering wheel with 4 drive modes https://larsm.org/allrad-e-bobby-car/
+  #define VARIANT_BBCAR       // Variant for small Toy-Car with steering wheel with 4 drive modes https://larsm.org/allrad-e-bobby-car/
 #endif
 // ########################### END OF VARIANT SELECTION ############################
 
